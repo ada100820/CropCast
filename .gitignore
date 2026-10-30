@@ -32,6 +32,9 @@ checkpoints/
 logs/
 outputs/
 
+# EPIRICE NASA POWER cache (regenerable via run_epirice.R)
+.cache/
+
 # OS and editor files
 .DS_Store
 Thumbs.db

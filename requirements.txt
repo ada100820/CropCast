@@ -1,0 +1,24 @@
+# Core deep-learning stack
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image processing
+Pillow>=9.0.0
+
+# Data / scientific computing
+numpy>=1.24.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+
+# Web app
+streamlit>=1.28.0
+
+# LLM integration (agentic_ai/llm_agent.py)
+openai>=1.0.0
+
+# Weather-risk layer (weather_risk/)
+# R >= 4.2 and epicrop are also required; see weather_risk/README.md
+
+# Testing
+pytest>=7.4.0
